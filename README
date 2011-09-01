@@ -1,6 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=2820
+This script has been renamed to DBGp-client -- ....
 
-This is a small modification of Ethan McCreadie's version, itself a modification of 
-Seung Woo Shin's XDebug remote debugger: http://www.vim.org/scripts/script.php?script_id=2218
-
-It fixes a bug I encountered when adding a breakpoint to a remote file on a local mount.
+http://github.com/vim-scripts/DBGp-client--...
